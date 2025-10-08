@@ -16,21 +16,10 @@ It includes:
 3. Managing user privileges and verifying connections  
 
 ---
-
+C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images
 
 ##  Screenshoot images
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture1.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture2.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture3.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture4.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture5.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture6.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture7.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture8.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture9.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture11.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture12.PNG
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture13.PNG
+
 
 ## ⚙️ Step 1: Connect as SYSDBA
 Open **Command Prompt (cmd)** and run:
