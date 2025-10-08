@@ -16,9 +16,9 @@ It includes:
 3. Managing user privileges and verifying connections  
 
 ---
-C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images
 
 ##  Screenshoot images
+![alt text](Capture1.PNG)
 
 
 ## ⚙️ Step 1: Connect as SYSDBA
@@ -26,5 +26,4 @@ Open **Command Prompt (cmd)** and run:
 
 ```sql
 sqlplus / as sysdba
----
 
