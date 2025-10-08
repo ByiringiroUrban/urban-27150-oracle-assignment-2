@@ -16,7 +16,6 @@ It includes:
 3. Managing user privileges and verifying connections  
 
 ---
-
 ##  Screenshoot images
 ![alt text](Capture1.PNG)
 
