@@ -1,4 +1,4 @@
-# Oracle 21c Pluggable Database (PDB) Management — Assignment  
+# Oracle 21c Pluggable Database (PDB) Management
 **Author:** BYIRINGIRO Urban Bobola  
 **Database Name:** `BY_PDB_27150`  
 **Admin User:** `urban_plsqluca_27150 / Urban#2024`  
@@ -22,6 +22,8 @@ Open **Command Prompt (cmd)** and run:
 
 ```sql
 sqlplus / as sysdba
+---
+
 
 ##  Screenshoot images
 C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture1.PNG
