@@ -17,13 +17,6 @@ It includes:
 
 ---
 
-## ⚙️ Step 1: Connect as SYSDBA
-Open **Command Prompt (cmd)** and run:
-
-```sql
-sqlplus / as sysdba
----
-
 
 ##  Screenshoot images
 C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture1.PNG
@@ -38,3 +31,11 @@ C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Captu
 C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture11.PNG
 C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture12.PNG
 C:\Users\IRU BUSINESS GROUP\Desktop\urban-27150-oracle-assignment-2\images\Capture13.PNG
+
+## ⚙️ Step 1: Connect as SYSDBA
+Open **Command Prompt (cmd)** and run:
+
+```sql
+sqlplus / as sysdba
+---
+
