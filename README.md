@@ -17,7 +17,18 @@ It includes:
 
 ---
 ##  Screenshoot images
-![alt text](Capture1.PNG)
+![alt text](images/Capture1.PNG)
+![alt text](images/Capture2.PNG)
+![alt text](images/Capture3.PNG) 
+![alt text](images/Capture4.PNG)
+![alt text](images/Capture5.PNG)
+![alt text](images/Capture6.PNG)
+![alt text](images/Capture7.PNG)
+![alt text](images/Capture8.PNG)
+![alt text](images/Capture9.PNG)
+![alt text](images/Capture11.PNG)
+![alt text](images/Capture12.PNG)
+![alt text](images/Capture13.PNG)
 
 
 ## ⚙️ Step 1: Connect as SYSDBA
